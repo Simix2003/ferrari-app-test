@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>823750098725-2mm133ubt5p2cp66c25t10d5m9vvurra.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.823750098725-2mm133ubt5p2cp66c25t10d5m9vvurra</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTN2_qR4R7rmE9oeP9qp7NyWHKWgJM9ps</string>
+	<key>GCM_SENDER_ID</key>
+	<string>823750098725</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.startertemplate</string>
+	<key>PROJECT_ID</key>
+	<string>ferrari-scaglietti</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ferrari-scaglietti.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:823750098725:ios:f6396e58dc0f66675764cc</string>
+</dict>
+</plist>
